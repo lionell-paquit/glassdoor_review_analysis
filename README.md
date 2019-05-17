@@ -1,6 +1,6 @@
 # Text Mining User-generated Reviews Posted on Glassdoor
 
-### Data Science Project
+### Data Science Project (on-going project)
 
 <span>
     <img src="/images/glassdoor_logo.png" height="100" width="100">
